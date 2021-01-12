@@ -354,7 +354,8 @@ GEM
       rb-inotify (>= 0.9)
     local_time (1.0.2)
       coffee-rails
-    loofah (2.0.2)
+    loofah (2.8.0)
+      crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
     lumberjack (1.0.9)
     mail (2.5.4)
